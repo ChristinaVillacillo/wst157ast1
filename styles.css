@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(251, 221, 221);
+}
+
+.box {
+    padding:5px;  
+    border-color: rgb(172, 187, 191);
+    border-style:dashed;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin-left:25%;
+     margin-right:25%;
+     background-color: rgb(234, 252, 255);
+     margin-top: 3%;
+    
+}
+
+h1 {
+    width:85%;
+    color:rgb(58, 99, 127);
+}
+
+
+ol {font-weight:bolder;
+    list-style-type: none;
+    padding:10px;
+    font-size: larger;
+    color:rgb(58, 99, 127);
+}
+
+li {
+    color: rgb(102, 107, 117);
+    font-size: medium;
+}
+
